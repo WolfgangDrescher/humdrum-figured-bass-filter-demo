@@ -25,7 +25,7 @@ cannot be displayed by Verovio.
 Calculate the the compound intervals. `-c` could be the argument here similar to
 the hint commnad.
 
-[02.krn](kern/02.krn) [View in
+[02.krn](kern/02.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/02.krn)
 
 
@@ -33,7 +33,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
 
 Merge both *Intervalsätze* from example 1 to a single figured bass line.
 
-[03.krn](kern/03.krn) [View in
+[03.krn](kern/03.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/03.krn)
 
 
@@ -41,7 +41,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
 
 Merge both *Intervalsätze* from example 2 to a single figured bass line. Again with the `-c` flag.
 
-[04.krn](kern/04.krn) [View in
+[04.krn](kern/04.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/04.krn)
 
 
@@ -49,7 +49,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
 
 Same as example 4 but with simplified figured bass numbering.
 
-[05.krn](kern/05.krn) [View in
+[05.krn](kern/05.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/05.krn)
 
 
