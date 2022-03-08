@@ -45,7 +45,7 @@ Merge both *Intervalsätze* from example 2 to a single figured bass line. Again 
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/04.krn)
 
 
-### 5. Compound figured bass (detailed)
+### 5. Compound figured bass (simplified)
 
 Same as example 4 but with simplified figured bass numbering.
 
