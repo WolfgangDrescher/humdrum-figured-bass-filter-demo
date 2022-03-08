@@ -12,7 +12,7 @@ as *Intervallsatz*, or as real basso continuo numbers.
 Calculate the exact intervall without converting compound to non-compound
 intervals.
 
-[01.krn](kern/01.krn) [View in
+[01.krn](kern/01.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/01.krn)
 
 NB: In bar 6 on the second 16th note the alt voice goes below the bass note.
