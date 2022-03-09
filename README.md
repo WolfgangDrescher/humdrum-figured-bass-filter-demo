@@ -7,7 +7,7 @@ for automatic detection of the figured bass numbers. For each part separately as
 
 With the hint command you get specific intervals like e.g. "major third" (M3) or
 "minor third" (m3). But with figured bass it does not matter if an interval is
-major or minor. Instead the relation to they key and the key signature needs to
+major or minor. Instead the relation to the key and the key signature needs to
 be taken into account.
 
 An implementation into the Verovio JS toolkit would be appreciated to create
