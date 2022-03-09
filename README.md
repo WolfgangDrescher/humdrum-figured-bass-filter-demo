@@ -88,6 +88,6 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
     a config with a flag.
 12. Decide how to display `5 3` chords. Never? Always? Contextual? Maybe add a
     config with a flag.
-13. Should `-#2` in bar 7 resolte to 1/8?
+13. Should `-#2` in bar 7 resolte to 1 or 8 in example 5 (simplified figured bass)?
 14. `-c` option should be default with another flag to display them not
     compounded.
