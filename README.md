@@ -5,7 +5,14 @@ command it should be possible to create a filter for Humdrum that adds spines
 for automatic detection of the figured bass numbers. For each part separately as
 *Intervallsatz*, or as real basso continuo numbers.
 
+With the hint command you get specific intervals like e.g. "major third" (M3) or
+"minor third" (m3). But with figured bass it does not matter if an interval is
+major or minor. Instead the relation to they key and the key signature needs to
+be taken into account.
+
 ## Examples
+
+Here is a test set of what I think this command should be capable of.
 
 ### 1. Verbose *Intervallsatz*
 
@@ -65,8 +72,9 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
  4. Should negative value be allowed?
  5. Should there be a difference between 1 and 8 for the *Intervallsatz*?
  6. How could we calculate the difference between 2 and 9?
- 7. Negative values are not allowed in `*fb` spines since the `-` get translated
-    into a flat accidental
+ 7. Negative values are not allowed in `**fb` spines since the `-` get
+    translated into a flat accidental. Should this be implementet or does this
+    need a new interpretation records?
  8. Add option to only calculate intervalls or figured bass on certain beats
     (quarter notes in 4/4, oder 1st and 4th eighth note in 6/8)
  9. How can we get this command in VHV and the Verovio JavaScript toolkit?
