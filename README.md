@@ -11,7 +11,8 @@ major or minor. Instead the relation to they key and the key signature needs to
 be taken into account.
 
 An implementation into the Verovio JS toolkit would be appreciated to create
-such an analysis on the fly in the browser. 
+such an analysis on the fly in the browser. Similar to the existing `cint`
+filter.
 
 ## Examples
 
