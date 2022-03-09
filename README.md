@@ -86,7 +86,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
 10. Add an option to ignore negative intervals?
 11. Decide how to display `5 4` to `6 4` in bar 7 (with 5 or without). Maybe add
     a config with a flag.
-12. Decide how to display `5 3` chors. Never? Always? Contextual? Maybe add a
+12. Decide how to display `5 3` chords. Never? Always? Contextual? Maybe add a
     config with a flag.
 13. Should `-#2` in bar 7 resolte to 1/8?
 14. `-c` option should be default with another flag to display them not
