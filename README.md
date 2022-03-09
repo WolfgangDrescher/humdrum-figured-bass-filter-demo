@@ -76,7 +76,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
     translated into a flat accidental. Should this be implementet or does this
     need a new interpretation records?
  8. Add option to only calculate intervalls or figured bass on certain beats
-    (quarter notes in 4/4, oder 1st and 4th eighth note in 6/8)
+    (quarter notes in 4/4, oder 1st and 4th eighth note in 6/8).
  9. How can we get this command in VHV and the Verovio JavaScript toolkit?
 10. Add option to ignore negative intervals?
 11. Decide how to display `5 4` to `6 4` in bar 7 (with 5 or without). Maybe add
