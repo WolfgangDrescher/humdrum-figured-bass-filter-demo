@@ -68,7 +68,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
 ## Problems, questions and ideas
 
  1. Name of the command is tbd.
- 2. Calculating intervalls relativ to a specified spine seems usefull so it
+ 2. Calculating intervals relativ to a specified spine seems usefull so it
     would be possible to pass different voices as base via arguments to the
     command.
  3. Could there be an argument to always calculate the intervals relative to the
@@ -79,7 +79,7 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
  7. Negative values are not allowed in `**fb` spines since the `-` get
     translated into a flat accidental. Should this be implementet or does this
     need a new interpretation records?
- 8. Add option to only calculate intervalls or figured bass on certain beats
+ 8. Add option to only calculate intervals or figured bass on certain beats
     (quarter notes in 4/4, oder 1st and 4th eighth note in 6/8).
  9. How can we get this command in VHV and the Verovio JavaScript toolkit?
 10. Add option to ignore negative intervals?
