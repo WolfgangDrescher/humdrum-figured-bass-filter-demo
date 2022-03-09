@@ -75,8 +75,8 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
     lowest note, ignoring the given base voice/staff? Since there is music where
     the lowest note is not always in the bass.
  4. Should negative value be allowed?
- 5. Should there be a difference between 1 and 8 for the compounded *Intervallsatz*?
- 6. How could we calculate the difference between 2 and 9?
+ 5. Should there be a difference between 1 and 8 for the compounded modes?
+ 6. How could we calculate the difference between 2 and 9 for the compounded modes?
  7. Negative values are not allowed in `**fb` spines since the `-` get
     translated into a flat accidental. Should this be implementet or does this
     need a new interpretation records?
