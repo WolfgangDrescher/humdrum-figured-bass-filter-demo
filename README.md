@@ -72,7 +72,8 @@ VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/Wolfgan
     would be possible to pass different voices as base via arguments to the
     command.
  3. Could there be an argument to always calculate the intervals relative to the
-    lowest note, ignoring the given base voice/staff?
+    lowest note, ignoring the given base voice/staff? Since there is music where
+    the lowest note is not always in the bass.
  4. Should negative value be allowed?
  5. Should there be a difference between 1 and 8 for the *Intervallsatz*?
  6. How could we calculate the difference between 2 and 9?
