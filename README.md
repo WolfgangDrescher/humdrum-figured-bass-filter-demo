@@ -64,6 +64,15 @@ Same as example 4 but with simplified figured bass numbering.
 [05.krn](kern/05.krn) | [View in
 VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/05.krn)
 
+### 6. Opinionated figured bass (simplified)
+
+Close to example 5 but opinionated to leave out all unnecessary numbers for a
+practical basso continuo player. Something close to this can be achieved by just
+displaying numbers on every eighth note (see problem 8).
+
+[06.krn](kern/06.krn) | [View in
+VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/humdrum-figured-bass-filter-demo/master/kern/06.krn)
+
 
 ## Problems, questions and ideas
 
