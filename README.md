@@ -1,5 +1,7 @@
 # Humdrum figured bass filter demo
 
+See https://github.com/craigsapp/humlib/pull/53 for further informations.
+
 Based on the [`hint -l`](https://www.humdrum.org/Humdrum/commands/hint.html)
 command it should be possible to create a filter for Humdrum that adds spines
 for automatic detection of the figured bass numbers. For each part separately as
